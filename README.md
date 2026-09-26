@@ -150,56 +150,6 @@ I enjoy taking an idea through the complete software development journey:
 
 # 🚀 Featured Projects
 
-## 🏟️ SportsArena
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-</div>
-
-### 🎯 Full Stack Sports Management Application
-
-SportsArena is a full-stack application designed to manage sports-related data with an interactive interface.
-
-```text
-                    🏟️ SPORTSARENA
-                           │
-             ┌─────────────┼─────────────┐
-             ▼             ▼             ▼
-         👤 Players     🔎 Search     🏆 Rankings
-             │             │             │
-             └─────────────┼─────────────┘
-                           ▼
-                     ⚛️ React UI
-                           │
-                           ▼
-                     🔌 REST APIs
-                           │
-                           ▼
-                  🟢 Node + Express
-                           │
-                           ▼
-                      🍃 MongoDB
-```
-
-### ✨ Highlights
-
-- CRUD operations
-- Player management
-- Search & filtering
-- Ranking / leaderboard functionality
-- REST API architecture
-- Database integration
-- Responsive user interface
-
-🔗 **Repository:**  
-https://github.com/kala3013/SportsArena
-
----
 
 # 🤖 Code Analyzer
 
