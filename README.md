@@ -146,32 +146,6 @@ https://github.com/kala3013/crewai-code-anayzer
 
 ---
 
-## 🏟️ SportsArena
-
-### 🏆 Sports Management & Leaderboard Platform
-
-A web application focused on managing sports-related data and providing interactive player and leaderboard functionality.
-
-**Technologies**
-
-`React` `Node.js` `Express.js` `MongoDB`
-
-### 🎯 Features
-
-- Player management
-- Team management
-- CRUD operations
-- Search functionality
-- Edit and delete operations
-- Leaderboard functionality
-- Backend API integration
-- Database management
-
-🔗 **GitHub:**  
-https://github.com/kala3013
-
----
-
 ## 🏥 Thamarai Fertility Hospital
 
 ### 🏥 Hospital Management System
