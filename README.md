@@ -607,26 +607,6 @@ APPLICATION
 
 ---
 
-# 📈 `CODING ACTIVITY`
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kala3013&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
-
----
-
-# 🐍 `CONTRIBUTION JOURNEY`
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kala3013/kala3013/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🎯 `2026 → 2027 MISSION`
 
 <div align="center">
