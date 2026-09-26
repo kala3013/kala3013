@@ -1,516 +1,699 @@
-<h1 align="center">
-  👋 Hey, I'm Kalanidhi M C
-</h1>
+<div align="center">
 
-<h3 align="center">
-  💻 Full Stack Developer • 🤖 AI Explorer • ☁️ Cloud & DevOps Enthusiast
-</h3>
+# 👋 Hi, I'm **Kalanidhi M C**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Modern+Full+Stack+Applications;React.js+%7C+Node.js+%7C+Express.js;Java+%7C+JavaScript+%7C+SQL;REST+APIs+%7C+JWT+%7C+MongoDB;Exploring+Generative+AI;Learning+Cloud+%26+DevOps;Turning+Ideas+Into+Working+Software" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=700&color=36BCF7&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+React.js+%7C+Node.js+%7C+SQL;AI+%26+Generative+AI+Explorer;Cloud+%26+DevOps+Enthusiast;Building+Real-World+Applications;Turning+Ideas+Into+Working+Software;Always+Learning.+Always+Building." alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/kala3013">
-    <img src="https://img.shields.io/github/followers/kala3013?label=Followers&style=flat-square&logo=github&color=181717" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=kala3013&label=Profile%20Views&color=0e75b6&style=flat-square" />
-  <a href="https://github.com/kala3013?tab=repositories">
-    <img src="https://img.shields.io/github/stars/kala3013?label=Stars&style=flat-square&logo=github&color=yellow" />
-  </a>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🧬 Who Am I?
-
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                         KALANIDHI M C                        │
-├──────────────────────────────────────────────────────────────┤
-│ 🎓 CSE Student                                               │
-│ 💻 Full Stack Development                                    │
-│ 🤖 Generative AI Exploration                                 │
-│ ☁️ Cloud & DevOps Learning                                   │
-│ 🧠 Problem Solving                                           │
-│ 🚀 Building Real-World Projects                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-I'm a **Computer Science Engineering student at Anna University
-Regional Campus, Coimbatore**, focused on building practical and
-user-oriented software applications.
-
-My primary development direction is **Full Stack Development**, with
-hands-on exposure to frontend development, backend APIs, databases,
-authentication and application development.
-
-Beyond web development, I'm exploring **Generative AI, Cloud
-Computing and DevOps** to understand how modern software systems are
-built, deployed and scaled.
-
-> **Build. Break. Debug. Learn. Repeat.**
-
----
-
-# ⚡ Engineering Stack
-
-### 💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
-</p>
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,flutter" />
-</p>
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Data & Backend Services
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-</p>
-
-### ☁️ Cloud & DevOps
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,git,github" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
-</p>
-
----
-
-# 🏗️ How I Build
-
-```text
-                    💡 IDEA
-                      │
-                      ▼
-              ┌───────────────┐
-              │   UI / UX     │
-              │ React / CSS   │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │  APPLICATION  │
-              │    LOGIC      │
-              └───────┬───────┘
-                      │
-                      ▼
-              ┌───────────────┐
-              │  REST APIs    │
-              │ Node/Express  │
-              └───────┬───────┘
-                      │
-                      ▼
-           ┌──────────┴──────────┐
-           │                     │
-       🗄️ MySQL              🍃 MongoDB
-           │                     │
-           └──────────┬──────────┘
-                      │
-                      ▼
-                🔐 AUTH / JWT
-                      │
-                      ▼
-                 🧪 TESTING
-                      │
-                      ▼
-               🔧 GIT / GITHUB
-                      │
-                      ▼
-              🐳 DOCKER / CI-CD
-                      │
-                      ▼
-                  ☁️ CLOUD
-```
-
----
-
-# 🚀 Selected Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏟️ SportsArena
-
-Sports management application with interactive functionality and data management.
-
-**Stack**
-
-`React.js` `Node.js` `Express.js` `MongoDB`
-
-**Highlights**
-
-- CRUD operations
-- Search & filtering
-- Leaderboard
-- Data management
-- Full Stack architecture
-
-<a href="https://github.com/kala3013/SportsArena">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/kala3013">
+<img src="https://img.shields.io/badge/GitHub-kala3013-181717?style=for-the-badge&logo=github" />
 </a>
 
-</td>
+<a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
 
-<td width="50%">
+<a href="mailto:kalanidhimurugan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
-### 🤖 AI Code Analyzer
+<br><br>
 
-AI-assisted software development project exploring LLMs and AI agents for code analysis.
+<img src="https://komarev.com/ghpvc/?username=kala3013&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 
-**Stack**
+<br><br>
 
-`Python` `CrewAI` `LLM` `Generative AI`
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kala3013&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 
-**Focus**
+</div>
 
-- AI agents
-- LLM integration
-- Code analysis
-- Developer assistance
+---
 
-</td>
-</tr>
+# 🧑‍💻 About Me
 
-<tr>
-<td width="50%">
+<img align="right" width="340" src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/draw.svg" />
 
-### 🏥 Thamarai Hospital
+I'm **Kalanidhi M C**, a Computer Science Engineering student at **Anna University Regional Campus, Coimbatore**, passionate about building practical software solutions.
 
-Healthcare management application focused on hospital operations and multi-branch support.
+My primary interest is **Full Stack Development**, while continuously exploring **Generative AI, Cloud Computing and DevOps**.
 
-**Stack**
+I enjoy taking an idea through the complete software development journey:
 
-`Node.js` `Express.js` `MySQL` `JWT`
+```text
+💡 Idea
+   ↓
+🎨 Design
+   ↓
+💻 Development
+   ↓
+🔌 APIs
+   ↓
+🗄️ Database
+   ↓
+🧪 Testing
+   ↓
+🐳 Containerization
+   ↓
+☁️ Deployment
+   ↓
+🚀 Real-World Application
+```
 
-**Highlights**
+### 🔎 Current Focus
+
+- ⚛️ React.js & modern frontend development
+- 🟢 Node.js & Express.js
+- ☕ Java & problem solving
+- 🗄️ SQL & NoSQL databases
+- 🔐 REST APIs & authentication
+- 🤖 Generative AI & AI applications
+- 🐳 Docker & CI/CD
+- ☁️ AWS & Google Cloud
+- 🧠 DSA & software engineering fundamentals
+
+<br clear="right"/>
+
+---
+
+# ⚡ Developer Identity
+
+<div align="center">
+
+```text
+                 ┌───────────────────────────┐
+                 │       👨‍💻 KALANIDHI       │
+                 │     SOFTWARE DEVELOPER    │
+                 └─────────────┬─────────────┘
+                               │
+        ┌──────────────────────┼──────────────────────┐
+        │                      │                      │
+        ▼                      ▼                      ▼
+   💻 FULL STACK          🤖 ARTIFICIAL AI       ☁️ CLOUD
+        │                      │                      │
+   ┌────┼────┐             ┌───┼───┐            ┌────┼────┐
+   ▼    ▼    ▼             ▼   ▼   ▼            ▼    ▼    ▼
+ React Node  SQL          LLM GenAI Agents    AWS  GCP Docker
+   │    │    │             │   │   │            │    │    │
+   └────┼────┘             └───┼───┘            └────┼────┘
+        │                      │                      │
+        └──────────────────────┼──────────────────────┘
+                               ▼
+                    🚀 REAL-WORLD SOFTWARE
+```
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+## 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css" />
+
+<br><br>
+
+## ⚛️ Frontend
+
+<img src="https://skillicons.dev/icons?i=react,flutter" />
+
+<br><br>
+
+## ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
+<br><br>
+
+## 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+
+<br><br>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,jenkins,git,github" />
+
+<br><br>
+
+## 🧰 Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🏟️ SportsArena
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
+
+### 🎯 Full Stack Sports Management Application
+
+SportsArena is a full-stack application designed to manage sports-related data with an interactive interface.
+
+```text
+                    🏟️ SPORTSARENA
+                           │
+             ┌─────────────┼─────────────┐
+             ▼             ▼             ▼
+         👤 Players     🔎 Search     🏆 Rankings
+             │             │             │
+             └─────────────┼─────────────┘
+                           ▼
+                     ⚛️ React UI
+                           │
+                           ▼
+                     🔌 REST APIs
+                           │
+                           ▼
+                  🟢 Node + Express
+                           │
+                           ▼
+                      🍃 MongoDB
+```
+
+### ✨ Highlights
+
+- CRUD operations
+- Player management
+- Search & filtering
+- Ranking / leaderboard functionality
+- REST API architecture
+- Database integration
+- Responsive user interface
+
+🔗 **Repository:**  
+https://github.com/kala3013/SportsArena
+
+---
+
+# 🤖 Code Analyzer
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-Code%20Analysis-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Automation-Developer%20Tools-36BCF7?style=for-the-badge" />
+
+</div>
+
+### 🧠 Automated Code Analysis & Correction
+
+An AI-oriented developer tool focused on analyzing source code, identifying issues and assisting with correction.
+
+```text
+              👨‍💻 SOURCE CODE
+                    │
+                    ▼
+             🔍 CODE ANALYZER
+                    │
+                    ▼
+             🧠 AI PROCESSING
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+     ⚠️ DETECTION        🛠️ CORRECTION
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+              🧪 VALIDATION
+                    │
+             ┌──────┴──────┐
+             ▼             ▼
+        COMPILATION     EXECUTION
+             │             │
+             └──────┬──────┘
+                    ▼
+                ✅ RESULT
+```
+
+### 🎯 Focus
+
+- Source-code analysis
+- Error detection
+- AI-assisted correction
+- Validation
+- Developer automation
+- Code quality
+
+🔗 **Repository:**  
+https://github.com/kala3013/crewai-code-anayzer
+
+---
+
+# 🏥 Thamarai Fertility Hospital
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-Authentication-000000?style=for-the-badge" />
+
+</div>
+
+### 🏥 Hospital Management System
+
+A backend-oriented healthcare management project focused on authentication, authorization, API development and database integration.
+
+```text
+                         👤 USER
+                           │
+                           ▼
+                    🌐 WEB APPLICATION
+                           │
+                           ▼
+                       🔌 REST API
+                           │
+                           ▼
+                   🟢 NODE + EXPRESS
+                           │
+                      🔐 JWT AUTH
+                           │
+                           ▼
+                        🗄️ MYSQL
+```
+
+### 🔐 Core Concepts
 
 - Authentication
-- Authorization concepts
+- Authorization
+- JWT
 - REST APIs
-- Database integration
+- MySQL integration
+- User management
 - Multi-branch architecture
 
-</td>
+---
 
-<td width="50%">
+# 📜 Certificate Management System
 
-### 📜 Certificate Management
+<div align="center">
 
-Web-based certificate management and generation system.
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
-**Stack**
+</div>
 
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+A web application concept for managing certificate records and generating certificate-related information dynamically.
 
-**Highlights**
+```text
+📝 USER FORM
+     │
+     ▼
+⚙️ PROCESSING
+     │
+     ▼
+🗄️ DATABASE
+     │
+     ▼
+📄 CERTIFICATE
+```
 
-- CRUD
-- Database operations
+### Concepts
+
+- CRUD operations
 - Form handling
+- Database management
 - Dynamic generation
 - Web application architecture
-
-</td>
-</tr>
-</table>
 
 ---
 
 # 💼 Internship Experience
 
-### Full Stack Development Intern
-**Sangam Soft Solutions • Coimbatore**
+<div align="center">
 
-Worked on web development and contributed to the **Code Infinite
-website redesign**.
+## 🚀 Full Stack Development Intern
 
-### 🔧 Responsibilities & Learning
+### Sangam Soft Solutions — Coimbatore
 
-- React.js frontend development
-- Node.js backend exposure
-- Website architecture
-- Responsive UI
-- Git & GitHub workflow
-- Forms and interactive components
-- Dark / Light theme
-- Website content structure
-
----
-
-# 🧠 What I Understand
-
-<table>
-<tr>
-<td>
-
-### Frontend
-- React Components
-- Props & State
-- Hooks
-- Responsive Design
-- JavaScript
-- HTML/CSS
-
-</td>
-
-<td>
-
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- Middleware
-- Authentication
-- JWT
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Database
-- MySQL
-- MongoDB
-- CRUD
-- SQL
-- Database Relationships
-- Firebase
-
-</td>
-
-<td>
-
-### DevOps / Cloud
-- Git
-- GitHub
-- Docker
-- Jenkins
-- CI/CD fundamentals
-- Cloud fundamentals
-
-</td>
-</tr>
-</table>
-
----
-
-# 🤖 AI & Emerging Technology
-
-I'm actively exploring how AI can be integrated into practical
-software applications.
-
-### Current Interests
+</div>
 
 ```text
-Generative AI
-     │
-     ├── LLM Applications
-     │
-     ├── AI Agents
-     │
-     ├── AI-assisted Development
-     │
-     ├── Prompt Engineering
-     │
-     └── AI + Full Stack Applications
+                       💼 INTERNSHIP
+                             │
+            ┌────────────────┼────────────────┐
+            ▼                ▼                ▼
+       ⚛️ Frontend       🟢 Backend        🔧 Git
+            │                │                │
+            └────────────────┼────────────────┘
+                             ▼
+                    🌐 CODE INFINITE
+                             │
+                             ▼
+                    🚀 WEB DEVELOPMENT
 ```
+
+### Experience
+
+- React.js development
+- Node.js exposure
+- Responsive web development
+- Git & GitHub workflow
+- Website redesign
+- Interactive forms
+- Gallery implementation
+- Blog section
+- Dark / Light theme
+- Website structure and UI development
+
+---
+
+# 🤖 AI Exploration
+
+<div align="center">
+
+```text
+                     🤖 GENERATIVE AI
+                           │
+              ┌────────────┼────────────┐
+              ▼            ▼            ▼
+             🧠 LLMs     ⚙️ Agents    💻 AI Tools
+              │            │            │
+              └────────────┼────────────┘
+                           ▼
+                    🧩 AI APPLICATIONS
+                           │
+                           ▼
+                  🌐 FULL STACK + AI
+```
+
+</div>
+
+### Exploring
+
+- Generative AI
+- Large Language Models
+- AI Agents
+- AI-assisted development
+- AI code analysis
+- AI-powered applications
+- LLM integration
+- AI + Full Stack systems
 
 ---
 
 # ☁️ Cloud & DevOps Journey
 
-My current learning path:
+<div align="center">
 
 ```text
-Git & GitHub
-      ↓
-Linux Fundamentals
-      ↓
-Docker
-      ↓
-CI/CD
-      ↓
-Jenkins
-      ↓
-Cloud Fundamentals
-      ↓
-Cloud Deployment
-      ↓
-Infrastructure & Automation
+       💻 CODE
+          │
+          ▼
+       🌿 GIT
+          │
+          ▼
+      🐙 GITHUB
+          │
+          ▼
+      🐳 DOCKER
+          │
+          ▼
+      ⚙️ CI/CD
+          │
+          ▼
+      🔧 JENKINS
+          │
+          ▼
+      ☁️ CLOUD
+          │
+          ▼
+      🚀 DEPLOYMENT
 ```
 
+</div>
+
+### Technologies
+
+`Git` `GitHub` `Docker` `Jenkins` `AWS` `Google Cloud`
+
 ---
 
-# 🏆 Achievements
+# 🧠 Development Areas
 
-| Achievement | Area |
+| Area | Technologies |
 |---|---|
-| 🏆 Best for Innovation | Daimler India Commercial Vehicles |
-| 🚀 Round 2 Participant | Smart India Hackathon |
-| 💡 Participant | India.RUN Hackathon 2026 |
-| 🎭 Workshop Participant | Ink, Quill, Mike |
-| 👨‍💼 Placement Coordinator | CSE |
-| 🤝 Class Placement Representative | CSE Committee |
+| 💻 Languages | Java • C • JavaScript |
+| 🎨 Frontend | HTML • CSS • React • Flutter |
+| ⚙️ Backend | Node.js • Express.js |
+| 🗄️ Database | MySQL • MongoDB • Firebase |
+| 🔐 APIs | REST APIs • JWT |
+| 🤖 AI | Generative AI • LLMs • AI Agents |
+| ☁️ Cloud | AWS • Google Cloud |
+| ⚙️ DevOps | Docker • Jenkins • CI/CD |
+| 🛠️ Tools | Git • GitHub • VS Code • Figma |
 
 ---
 
-# 📜 Certifications & Learning
+# 🏆 Achievements & Activities
 
-### 🤖 AI
+<div align="center">
 
-`IBM Generative AI`
+| 🏆 | Achievement / Activity |
+|---|---|
+| 🏆 | Daimler — Best for Innovation |
+| 🚀 | Smart India Hackathon — Round 2 |
+| 💡 | India.RUN Hackathon 2026 |
+| 🎭 | Ink, Quill, Mike — Theatre & Communication Workshop |
+| 👨‍💼 | CSE Placement Coordinator |
+| 🤝 | Class Placement Representative |
+| 🧑‍💻 | CSE Committee Member |
 
-`Celonis AI Foundations`
-
-`UiPath Agentic Automation`
-
-`Applied Generative AI`
-
-### ☁️ Cloud
-
-`Google Cloud`
-
-`AWS`
-
-`Oracle Cloud Infrastructure`
-
-### 🔐 Other
-
-`Google Cybersecurity`
-
-`Google Data Analytics`
-
-`Cloud Computing`
+</div>
 
 ---
 
+# 🎓 Education
 
+```yaml
+Bachelor of Engineering:
+  Degree: Computer Science & Engineering
+  Institution: Anna University Regional Campus, Coimbatore
+  Duration: 2023 - 2027
+  CGPA: 8.01
 
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kala3013&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-
-
-# 🎯 2026 → 2027 Roadmap
-
-```text
-                    🎯 SOFTWARE DEVELOPER
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-          FULL STACK        AI           CLOUD
-              │              │              │
-          React.js          LLMs          Docker
-          Node.js           Agents        CI/CD
-          Express.js        GenAI         Cloud
-          SQL/NoSQL         AI Apps       DevOps
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                     🚀 REAL PROJECTS
-                             │
-                             ▼
-                     💼 INDUSTRY READY
+Diploma:
+  Degree: Computer Engineering
+  Institution: Konghu Velalar Polytechnic College
+  Percentage: 93%
 ```
 
 ---
 
 # 📚 Currently Learning
 
-- ⚛️ Advanced React
-- 🟢 Backend Architecture
-- 🔌 REST API Design
-- 🗄️ Database Design
-- 🔐 Authentication & Authorization
-- 🐳 Docker
-- 🔄 CI/CD
-- ☁️ Cloud Deployment
-- 🤖 Generative AI
-- 🧠 Data Structures & Algorithms
-- ☕ Java
+<div align="center">
+
+<img src="https://img.shields.io/badge/Java-DSA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/React-Advanced%20Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Backend-Architecture-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/CI%2FCD-Learning-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-Exploring-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+
+</div>
+
+---
+
+# 🎯 2026 → 2027 Developer Roadmap
+
+<div align="center">
+
+```text
+                         🚀 SOFTWARE DEVELOPER
+                                  │
+       ┌──────────────────────────┼──────────────────────────┐
+       ▼                          ▼                          ▼
+ 💻 FULL STACK                 🤖 AI                    ☁️ CLOUD
+       │                          │                          │
+    React.js                     LLMs                      Docker
+    Node.js                     GenAI                      CI/CD
+    Express.js                  Agents                     Jenkins
+    REST APIs                   AI Apps                    AWS
+    SQL / NoSQL                 Automation                 GCP
+       │                          │                          │
+       └──────────────────────────┼──────────────────────────┘
+                                  ▼
+                          🏗️ REAL PROJECTS
+                                  │
+                                  ▼
+                            🧪 TESTING
+                                  │
+                                  ▼
+                          🔧 IMPROVEMENT
+                                  │
+                                  ▼
+                          🚀 DEPLOYMENT
+                                  │
+                                  ▼
+                         💼 INDUSTRY READY
+```
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=kala3013&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kala3013&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kala3013&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/kala3013/kala3013/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kala3013&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+
+</div>
+
+---
+
+# 📈 Developer Philosophy
+
+<div align="center">
+
+```text
+             💡 LEARN
+                ↓
+             🧠 UNDERSTAND
+                ↓
+             💻 BUILD
+                ↓
+             🐛 DEBUG
+                ↓
+             🧪 TEST
+                ↓
+             🚀 DEPLOY
+                ↓
+             📈 IMPROVE
+                ↓
+             🔁 REPEAT
+```
+
+### "Don't just learn technology. Build with it."
+
+</div>
 
 ---
 
 # 🌱 Beyond Coding
 
-I also enjoy developing my:
+<div align="center">
 
-- 🗣️ Communication
-- 🤝 Teamwork
-- 👥 Leadership
-- 🧩 Problem Solving
-- 🎯 Adaptability
-- 🎭 Presentation Skills
+```text
+🧩 Problem Solving
+        +
+🤝 Teamwork
+        +
+👥 Leadership
+        +
+🗣️ Communication
+        +
+🎯 Adaptability
+        +
+📚 Continuous Learning
+        =
+🚀 Software Developer
+```
 
----
-
-# 🎓 Education
-
-### B.E. Computer Science & Engineering
-**Anna University Regional Campus, Coimbatore**
-
-`2023 – 2027` • `CGPA 8.01`
-
-### Diploma in Computer Engineering
-**Konghu Velalar Polytechnic College**
-
-`93%`
+</div>
 
 ---
 
-# 🌐 Let's Connect
+# 🎯 Career Direction
 
-<p align="center">
+I'm working toward becoming a **Software Developer**, with a primary focus on **Full Stack Development** and growing interests in **Artificial Intelligence, Cloud Computing and DevOps**.
+
+I'm particularly interested in opportunities where I can:
+
+- Build real-world applications
+- Solve meaningful technical problems
+- Work with modern development technologies
+- Collaborate with engineering teams
+- Learn from experienced developers
+- Improve software quality and architecture
+- Continuously expand my technical skills
+
+---
+
+# 📫 Let's Connect
+
+<div align="center">
 
 <a href="https://github.com/kala3013">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-kala3013-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/kalanidhi-m-c-b568782a5/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kalanidhi%20M%20C-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
-</p>
+<a href="mailto:kalanidhimurugan@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-kalanidhimurugan@gmail.com-EA4335?style=for-the-badge&logo=gmail" />
+</a>
 
----
+<br><br>
 
-<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+build+something+useful.;Learn+%E2%80%A2+Build+%E2%80%A2+Debug+%E2%80%A2+Improve;Keep+learning.+Keep+building.+%F0%9F%9A%80" />
+
+<br>
 
 ### ⚡ Learn • Build • Debug • Improve
 
-**Thanks for visiting my profile! ⭐**
+</div>
 
-</p>
+---
+
+<div align="center">
+
+### ⭐ Explore my repositories and follow my development journey!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=120&section=footer" />
+
+</div>
