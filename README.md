@@ -412,14 +412,7 @@ Infrastructure & Automation
 
 ---
 
-# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kala3013&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kala3013&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
 
 # 🔥 Contribution Streak
 
@@ -429,21 +422,7 @@ Infrastructure & Automation
 
 ---
 
-# 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kala3013&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kala3013&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
-</p>
-
----
 
 # 🎯 2026 → 2027 Roadmap
 
